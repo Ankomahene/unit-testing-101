@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class NumbersTest {
-    int res = 3;
+    int res = 4;
 
     @Test
     void sumTwonumbers() {
